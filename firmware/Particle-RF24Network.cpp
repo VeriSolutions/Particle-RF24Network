@@ -5,7 +5,7 @@
  modify it under the terms of the GNU General Public License
  version 2 as published by the Free Software Foundation.
  */
-#include "Particle-RF24Network_config.h"
+#include "Particle-RF24NetworkParticle-RF24Network_config.h"
 
  #if defined (RF24_LINUX)
   #include <stdlib.h>
@@ -23,7 +23,7 @@
   #include "RF24Network.h"
 #else  
   #include "particle-rf24/particle-rf24.h"
-  #include "Particle-RF24Network.h"
+  #include "Particle-RF24NetworkParticle-RF24Network.h"
 #endif
 
 #if defined (ENABLE_SLEEP_MODE) && !defined (RF24_LINUX) && !defined (__ARDUINO_X86__)
