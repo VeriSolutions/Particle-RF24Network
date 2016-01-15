@@ -1,0 +1,7 @@
+{
+  "name": "Particle-RF24Network",
+  "author": "Dan Wahl <drwahl@gmail.com>",
+  "license": "MIT",
+  "version": "0.0.0",
+  "description": "An implementation of TMRh20's optimized RF24Network Library for the Particle Photon."
+}
