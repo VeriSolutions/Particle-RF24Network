@@ -15,7 +15,7 @@
  * Every 2 seconds, send a payload to the receiver node.
  */
 
-#include "particle-rf24network/particle-rf24network.h"
+#include "Particle-RF24Network/Particle-RF24Network.h"
 #include "particle-rf24/particle-rf24.h"
 #include <SPI.h>
 
