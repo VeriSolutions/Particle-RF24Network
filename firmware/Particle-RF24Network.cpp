@@ -5,6 +5,8 @@
  modify it under the terms of the GNU General Public License
  version 2 as published by the Free Software Foundation.
  */
+
+#include "application.h" 
 #include "Particle-RF24Network/Particle-RF24Network_config.h"
 
  #if defined (RF24_LINUX)
