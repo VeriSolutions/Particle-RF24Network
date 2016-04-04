@@ -14,7 +14,7 @@
 #include <Particle-RF24Network/Particle-RF24Network.h>
 // Project headers
 // This component's header
-#include <Sync.h>
+#include <Particle-RF24Network/Sync.h>
 
 /****************************************************************************/
 
