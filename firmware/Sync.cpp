@@ -11,7 +11,7 @@
 #include <stdlib.h>
 // Framework headers
 // Library headers
-#include <RF24Network.h>
+#include <Particle-RF24Network.h>
 // Project headers
 // This component's header
 #include <Sync.h>
